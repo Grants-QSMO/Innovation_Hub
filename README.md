@@ -29,10 +29,10 @@ Learn more about the Grants QSMO [here](https://www.hhs.gov/about/agencies/asfr/
 [POC] Tammie Johnson - tammie.johnson@fiscal.treasury.gov; Craig Fischer (NONFED) - cfischer@think-dragon.com
 - FIT/NSF’s “Blockchain for Grant Payments” initiative strives to improve grant payment processes and increase transparency for multi-tiered grant payments. Since 2017, “Blockchain for Grant Payments” has been focused on how grant recipients could use blockchain technology to tokenize (i.e. digitally represent), transfer, and redeem grant payments. 
 - The initiative has led to the creation of a small blockchain proof of concept, the development and testing of a blockchain solution to manage FIT/NSF’s cell phone inventory, and provided hands-on experience with the technology. These activities made it clear that blockchain provides many benefits, including increased transparency, reduced financial and labor burden, and enhanced internal controls. It also demonstrated that using blockchain leads to process efficiencies and increased accuracy. It also provides transparency and peer-to-peer transfers of assets without a third party.
-  - [Financial Innovation & Transform Come 'Git' Your Blockchain Code](https://fiscal.treasury.gov/fit/blog/come-git-your-blockchain-code.html)
-  - [Financial Innovation & Transform Five Quick Takeaways on Blockchain](https://fiscal.treasury.gov/fit/blog/five-quick-takeways-on-blockchain.html)
-  - [Financial Innovation & Transform Blockchain Video](https://fiscal.treasury.gov/files/fit/US_FITBlockchain_Final_Compressed.mp4)
-  - [Financial Innovation & Transform Blockchain & Possible Future of Federal Grant Management](https://fmvision.fiscal.treasury.gov/blockchain-and-the-possible-future-of-federal-grant-management.html)
+  - [Financial Innovation & Transformation: Come 'Git' Your Blockchain Code](https://fiscal.treasury.gov/fit/blog/come-git-your-blockchain-code.html)
+  - [Financial Innovation & Transformation: Five Quick Takeaways on Blockchain](https://fiscal.treasury.gov/fit/blog/five-quick-takeways-on-blockchain.html)
+  - [Financial Innovation & Transformation: Blockchain Video](https://fiscal.treasury.gov/files/fit/US_FITBlockchain_Final_Compressed.mp4)
+  - [Financial Innovation & Transformation: Blockchain & Possible Future of Federal Grant Management](https://fmvision.fiscal.treasury.gov/blockchain-and-the-possible-future-of-federal-grant-management.html)
   - [Fit-Blockchain GitHub Page](https://github.com/fiscalservice/fit-blockchain)
 #### MITRE Blockchain for Grants Payments <a id='mitreBlockchain'></a>
 [Org Owner] MITRE<br>
