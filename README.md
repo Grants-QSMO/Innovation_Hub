@@ -74,8 +74,8 @@ Email: help@grantsolutions.gov
 
 ## User Experience <a id='UX'></a>
 #### Recipient Seamless User Experience (RUX) <a id='recipRUX'></a>
-[Organizational Owner] Grants QSMO<br>
-[Point of Contact(s)] GrantsQSMO@hhs.gov
+Organizational Owner: Grants QSMO<br>
+Point of Contact: GrantsQSMO@hhs.gov
 - RUX is an iterative, multi-year infrastructure transformation to reshape the way recipients interact with federal IT throughout the grant management lifecycle. The RUX Minimally Viable Product (MVP) is a clickable prototype that features a user-specific grants management dashboard.
    - [RUX Portal Run Through Video](https://vimeo.com/553096795/6c43bded9a)
  
