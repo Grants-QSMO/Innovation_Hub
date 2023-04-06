@@ -72,10 +72,4 @@ Email: help@grantsolutions.gov
 - Recipient Insight is a risk management service that uses advanced data technologies such as machine learning and intelligent automation to provide concise profiles of selected organizations.
    - [Grant Solutions Recipient Insight](https://home.grantsolutions.gov/home/recipient-insight/)
 
-## User Experience <a id='UX'></a>
-#### Recipient Seamless User Experience (RUX) <a id='recipRUX'></a>
-Organizational Owner: Grants QSMO<br>
-Point of Contact: GrantsQSMO@hhs.gov
-- RUX is an iterative, multi-year infrastructure transformation to reshape the way recipients interact with federal IT throughout the grant management lifecycle. The RUX Minimally Viable Product (MVP) is a clickable prototype that features a user-specific grants management dashboard.
-   - [RUX Portal Run Through Video](https://vimeo.com/553096795/6c43bded9a)
- 
+
