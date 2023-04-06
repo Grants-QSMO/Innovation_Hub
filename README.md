@@ -20,8 +20,7 @@ Learn more about the Grants QSMO [here](https://www.hhs.gov/about/agencies/asfr/
    - ##### <a href='#sf425AutoPop'>SF 425 Auto Populator</a>
 - #### <a href='#riskMngmt'>Risk Management</a>
    - ##### <a href='#recipInsight'>Recipient Insight</a>
-- #### <a href='#UX'>User Experience</a>
-   - ##### <a href='#recipRUX'>Recipient Seamless User Experience (RUX)</a>
+
   
 ## Grant Payments <a id='grantPayments'></a>
 #### FIT/NSF Blockchain for Grants Payments <a id='fitnsfBlockchain'></a>
